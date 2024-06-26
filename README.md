@@ -4,8 +4,11 @@ Anomaly detection using deep learning for predictive maintenance purpose
 
 We published three real-large datasets on Zenoda and UCI Machine Learning Repository that were obtained from eight analog and eight digital sensors installed on an air compressor on a metro train.
 In the realm of predictive maintenance and anomaly detection, these dataset serves as a valuable resource for advancing the capabilities of deep learning and machine learning models. Specifically designed to address the challenges associated with compressors, this dataset is tailored for developing models that can predict remaining useful life (RUL), detect anomalies, and facilitate predictive maintenance.
+
 1- https://zenodo.org/records/6854240
+
 2- https://zenodo.org/records/7766691
+
 3- https://archive.ics.uci.edu/dataset/791/metropt+3+dataset
 
 
