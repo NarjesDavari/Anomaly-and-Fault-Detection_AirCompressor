@@ -1,4 +1,7 @@
 # Anomaly-Detection
+
+![FD](https://github.com/NarjesDavari/Anomaly-and-Fault-Detection/blob/main/FD.png)
+
 Anomaly detection using deep learning for predictive maintenance purpose
 
 
