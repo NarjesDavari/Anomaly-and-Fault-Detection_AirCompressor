@@ -1,4 +1,4 @@
-# Anomaly-Detection
+# Anomaly and Fault Detection
 
 ![FD](https://github.com/NarjesDavari/Anomaly-and-Fault-Detection/blob/main/FD.png)
 
